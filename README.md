@@ -1,1 +1,2 @@
 # ny-privet
+kak dela
